@@ -4,9 +4,10 @@ TypeScript 101
 Run with either one.
 
 --Option 1--
->> tsc
+> tsc
+
 (automatically detect tsconfig.json and compile)
->> node build/test.js
+> node build/test.js
 
 --Option 2--
->> node-ts test.ts
+> node-ts test.ts
